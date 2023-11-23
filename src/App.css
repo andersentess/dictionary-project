@@ -1,8 +1,13 @@
-body {
+.App {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.App body {
   background: #f9f8fe;
 }
 
-a {
+.App a {
   color: #8a77e1;
 }
 
